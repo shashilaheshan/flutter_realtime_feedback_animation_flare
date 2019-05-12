@@ -2,6 +2,7 @@
 
 A Flutter animated feedback application using Flutter Flare a 2D animation library for flutter.
 try it and it's owesome
+<img src="https://i.ytimg.com/vi/G02SM1fzKz8/maxresdefault.jpg" />
 
 ## Getting Started
 
